@@ -1,8 +1,0 @@
-{
-  "name": "Oleksandr",
-  "dependencies": {
-    "jquery": "^2.2.4",
-    "normalize-css": "normalize.css#^4.1.1",
-    "modernizer": "^2.8.2"
-  }
-}
