@@ -1,0 +1,7 @@
+{
+  "name": "Oleksandr",
+  "devDependencies": {
+    "browser-sync": "^2.12.12",
+    "gulp": "^3.9.1"
+  }
+}
