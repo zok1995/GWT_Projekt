@@ -1,0 +1,63 @@
+html {
+    height: 100%;
+}
+body {
+    height:  100%;
+    background: url(../img/background.png) repeat;
+    font:  normal 1em 'fira_sanslight';
+    color: #4a545d;
+}
+/* footer */
+.page-footer{
+   /* background: #eff3f7 url(../)  line!*/
+    font-family: 'fira_sanslight';
+    color: #4a545d;
+}
+.page-footer .container {
+    padding-top: 23px;
+    position:  relative;
+}
+.page-footer .copyright{
+    margin:  0 180px;
+    padding-top: 7px;
+    text-align: center;
+    font-size: 13px;
+}
+/* login */
+.page-footer .lock{
+    position: absolute;
+    top: 26px;
+    left: 20px;
+}
+.lock .lock-inner{
+    display: block;
+    height: 40px;
+    font-family: 'fira_sanslight';
+    font-size: 16px;
+    line-height: 2.2;
+    color: #4a545d;
+    text-decoration: none;
+}
+.lock .lock-inner:hover{
+    text-decoration: underline;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+.text-center{
+    text-align: center;
+}
+.pull-left {
+    float: right !important;
+}
+.container:before, clearfix:before,
+.container:after, clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.container:after, clearfix:after{
+    clear: both;
+}
