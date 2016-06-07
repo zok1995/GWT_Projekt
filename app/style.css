@@ -103,10 +103,24 @@ h2 {
     margin-top: 45px;
 }
 
+/* footer */
+footer {
+    width: 100%;
+    height: 400px;
+    background-color: #183951;
+    margin-top: 500px;
+}
 
+#foot {
+    width: 1000px;
+    height: 100%;
+    margin:  0 auto;
+}
 
-
-
+div.social {
+    float: left;
+    margin-top: 20px;
+}
 
 
 
