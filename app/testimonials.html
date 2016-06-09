@@ -52,26 +52,25 @@
                 </div>
                     <div class="contact">
                         <h3>Contacts Us</h3>
-
-                        <form class="contact" name="form" method="post" action="form.php">
-                            <label for="name">Name</label><br>
-                            <input class="text" name="name" type="text" />
+                        <form class="contact" name="form" method="post">
+                            <label for="name" id="name">Name</label><br>
+                            <input class="text" name="name" type="text" id="input-name"/>
                             <br><br>
 
-                            <label for="email">Email</label><br>
-                            <input class="text" name="email" type="text" />
+                            <label for="email" id="email">Email</label><br>
+                            <input class="text" name="email" type="text" id="input-email"/>
                             <br><br>
 
-                            <label for="message">Message</label><br>
-                            <textarea class="message" name="message"></textarea>
+                            <label for="message" id="message">Message</label><br>
+                            <textarea class="message" name="message" id="input-message"></textarea>
                             <br><br>
 
-                            <input class="submit" name="submit" type="submit" value="Submit" />
+                            <input class="submit" name="submit" type="button" value="Submit" onclick="getData();" />
                         </form>
             </div>
         </div>
     </footer>
-
+<script src="main.js"></script>
 </BODY>
 
 </HTML>
