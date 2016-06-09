@@ -102,9 +102,16 @@ h2 {
 .three {
     margin-top: 45px;
 }
+.four {
+    margin-top: 45px;
+}
 
 /* TESMONIAL SECTION */
 
+p.name {
+    color: #cccccc;
+    font-size: 20px;
+}
 /* footer */
 footer {
     width: 100%;
