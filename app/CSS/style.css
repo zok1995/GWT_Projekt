@@ -186,10 +186,29 @@ input.submit:hover {
     text-decoration: underline;
 }
 
+/* portfolio page */
 
+.sidebar {
+    width: 250px;
+    float: left;
+}
 
+.navigation {
+    overflow: hidden;
+    background: #eff3f7;
+    border-radius: 4px;
+    margin-bottom: 26px;
+}
 
+.navigation .navigation-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
 
+.navigation .navigation-item {
+    border-top: 2px solid #3ba8c0;
+}
 
 
 
