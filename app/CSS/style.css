@@ -5,7 +5,7 @@ body {
 
 .main {
     height: 700px;
-    background-image: url(images/background.jpg);
+    background-image: url(/app/images/background.jpg);
     background-position:  center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -73,7 +73,7 @@ h2 {
 #head {
     width: 100%;
     height: 350px;
-    background-image: url(images/header.png);
+    background-image: url(/app/images/header.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
