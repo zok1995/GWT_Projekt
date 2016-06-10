@@ -208,12 +208,38 @@ input.submit:hover {
 
 .navigation .navigation-item {
     border-top: 2px solid #3ba8c0;
+    margin: 0 11px;
 }
 
+.navigation .navigation-item:first-child {
+    border-top: none;
+}
 
+.navigation .navigation-item.current {
+    background: #3bA8C0;
+    margin: 0;
+    border-bottom: none;
+    padding-left: 11px;
+    margin-bottom: -2px;
+}
 
+.navigation .navigation-item.current .navigation-link {
+    color: #f9fafb;
+    font-size: 22px;
+}
 
+.navigation .navigation-link {
+    display: block;
+    font-size: 20px;
+    text-decoration: none;
+    color: #959aa8;
+    margin-left: 16px;
+    padding: 20px 0px;
+}
 
+.navigation .navigation-item:hover {
+    color: #3ba8c0;
+}
 
 
 
