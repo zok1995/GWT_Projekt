@@ -16,3 +16,5 @@ function getData() {
     //allmessage = new Message(name, email, message);
 }
 
+$('#logo').hover(function() {$(this).vibrate();});
+
