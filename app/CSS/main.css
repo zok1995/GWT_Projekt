@@ -209,6 +209,7 @@ input.submit:hover {
 
 .navigation .navigation-item {
     border-top: 2px solid #3ba8c0;
+        width: 230; /*        */
     margin: 0 11px;
 }
 
