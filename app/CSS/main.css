@@ -186,12 +186,13 @@ input.submit:hover {
     text-decoration: underline;
 }
 
-/* portfolio page */
-
 .sidebar {
     width: 250px;
     float: left;
 }
+/* portfolio page */
+
+
 
 .navigation {
     overflow: hidden;
@@ -241,7 +242,7 @@ input.submit:hover {
     color: #3ba8c0;
 }
 
-/* portfolio page section*/
+/* portfolio page section
 
 .variable-content {
     width: 650px;
@@ -272,6 +273,18 @@ input.submit:hover {
     float: left;
     margin-left: 55px;
     margin-top: 18px;
+}
+
+.avatar-box {
+    width: 142px;
+    height: 142px;
+    border-radius: 50% 50%;
+    overflow: hidden;
+    border: 5px solid #3ba8c0;
+}
+
+.avatar{
+    width: 100%;
 }
 
 .aboutbox .worksheet-wrap {
@@ -310,7 +323,7 @@ input.submit:hover {
 
 
 
-
+*/
 
 
 
