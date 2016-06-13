@@ -88,16 +88,19 @@
 	text-decoration: none;
 	list-style: none;
 }
+
 .worksheet-what {
 	vertical-align: top;
-		font-family: open_sans_semibold;
-
+    font-family: open_sans_semibold;
+    float: left;
 	display: inline-block;
 }
+
 .worksheet-info {
 	font-family: open_sans_regular;
 	display: inline-block;
 }
+
 .skill-list{
 	display: inline-block;
 	margin-left: -30px;
