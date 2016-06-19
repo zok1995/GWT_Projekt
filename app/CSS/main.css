@@ -106,11 +106,16 @@ h2 {
     margin-top: 45px;
 }
 
+.five {
+    margin-top: 45px;
+}
+
 /* TESMONIAL SECTION */
 
 p.name {
-    color: #cccccc;
-    font-size: 20px;
+    color: #454545;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 23px;
 }
 /* footer */
 footer {
