@@ -105,7 +105,7 @@
 .skill-list{
 	display: inline-block;
 	margin-left: -30px;
-	width: 200px;
+	width: 330px;
 	height: auto;
 }
 .skill-item {
@@ -126,10 +126,9 @@
 	margin-bottom: 40px;
 	min-height: 55px;
 
-
 }
 .aboutbox-item.icon-work{
-background: url(../image/work.png) no-repeat;
+background: url(../images/working.png) no-repeat;
 background-position: 40px -2px;
 }
 .aboutbox-item.icon-college{
@@ -147,6 +146,12 @@ background-position: 40px -2px;
 
 }
 .period {
+	font-family: open_sans_regular;
+	color:  #727070;
+	font-size: ;
+}
+
+.company {
 	font-family: open_sans_regular;
 	color:  #727070;
 	font-size: ;
