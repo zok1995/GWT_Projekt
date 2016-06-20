@@ -133,11 +133,11 @@ background: url(../images/working.png) no-repeat;
 background-position: 40px -2px;
 }
 .aboutbox-item.icon-college{
-background: url(../image/study_one.png) no-repeat;
+background: url(../images/study_one.png) no-repeat;
 background-position: 40px -2px;
 }
 .aboutbox-item.icon-college.last{
-background: url(../image/study_two.png) no-repeat;
+background: url(../images/study_one.png) no-repeat;
 background-position: 40px -2px;
 }
 .where {
