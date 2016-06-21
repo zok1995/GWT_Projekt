@@ -84,10 +84,6 @@ h2 {
     padding-top: 75px;
 }
 
-.portfolio {
-    width: 300px;
-    height: 250px;
-}
 .padding {
     padding-left: 45px;
 }
@@ -194,7 +190,7 @@ input.submit:hover {
 .sidebar {
     width: 250px;
     float: left;
-    padding-top: 40;
+    padding-top: 40px;
 }
 /* portfolio page */
 
