@@ -16,14 +16,12 @@ function getData() {
     //allmessage = new Message(name, email, message);
 }
 
-$('#logo').hover(function() {$(this).vibrate();});
-
-$('#knack').hover(function(){
-    if(!$(this).hasClass('animated')){
-        $(this).addClass('animated');
-        $(this).stop().effect('shake', {distance:3}, 200);
-    }
-}, function(){
-    $(this).removeClass('animated');
+// $('#logo').hover(function() {$(this).vibrate();});
+// це вже має бути анімація, приклад взяв з https://api.jqueryui.com/shake-effect/
+$( document ).click(function() {
+    $( "#toggle" ).effect( "shake" );
 });
-
+// це чисто для перевірки
+$( document ).click(function() {
+    alert("it works");
+});
