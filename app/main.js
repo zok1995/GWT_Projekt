@@ -1,4 +1,4 @@
-"use strict";
+
 var allmessage;
 function Message(name, email, message) {
     this.name = name;
@@ -17,4 +17,13 @@ function getData() {
 }
 
 $('#logo').hover(function() {$(this).vibrate();});
+
+$('#knack').hover(function(){
+    if(!$(this).hasClass('animated')){
+        $(this).addClass('animated');
+        $(this).stop().effect('shake', {distance:3}, 200);
+    }
+}, function(){
+    $(this).removeClass('animated');
+});
 
