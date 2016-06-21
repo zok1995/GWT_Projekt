@@ -18,8 +18,8 @@ function getData() {
 
 // $('#logo').hover(function() {$(this).vibrate();});
 // це вже має бути анімація, приклад взяв з https://api.jqueryui.com/shake-effect/
-$( document ).click(function() {
-    $( "#toggle" ).effect( "shake" );
+$( "#toggle" ).click(function() {
+    $( this ).effect( "shake" );
 });
 // це чисто для перевірки
 $( document ).click(function() {
