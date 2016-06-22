@@ -4,9 +4,7 @@
     <list default="true" id="706d61df-08c5-4b4f-82ea-9bee8d41170f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/CSS/varible-content.css" afterPath="$PROJECT_DIR$/app/CSS/varible-content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/HTML/index.html" afterPath="$PROJECT_DIR$/app/HTML/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/HTML/my-work.html" afterPath="$PROJECT_DIR$/app/HTML/my-work.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/HTML/portfolio.html" afterPath="$PROJECT_DIR$/app/HTML/portfolio.html" />
     </list>
     <ignored path="GWT Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,21 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="varible-content.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="varible-content.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/CSS/varible-content.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="79" column="14" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+            <state relative-caret-position="769">
+              <caret line="167" column="25" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my-work.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="my-work.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/HTML/my-work.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
+            <state relative-caret-position="184">
+              <caret line="42" column="83" selection-start-line="42" selection-start-column="83" selection-end-line="42" selection-end-column="94" />
               <folding />
             </state>
           </provider>
@@ -70,7 +68,7 @@
       <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/HTML/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
+            <state relative-caret-position="510">
               <caret line="91" column="37" selection-start-line="46" selection-start-column="23" selection-end-line="91" selection-end-column="37" />
               <folding />
             </state>
@@ -112,8 +110,8 @@
         <option value="$PROJECT_DIR$/app/HTML/galery.html" />
         <option value="$PROJECT_DIR$/app/HTML/index.html" />
         <option value="$PROJECT_DIR$/app/HTML/portfolio.html" />
-        <option value="$PROJECT_DIR$/app/CSS/varible-content.css" />
         <option value="$PROJECT_DIR$/app/HTML/my-work.html" />
+        <option value="$PROJECT_DIR$/app/CSS/varible-content.css" />
       </list>
     </option>
   </component>
@@ -335,7 +333,7 @@
       <workItem from="1466505093753" duration="1237000" />
       <workItem from="1466513855399" duration="5176000" />
       <workItem from="1466536435072" duration="615000" />
-      <workItem from="1466604710591" duration="2788000" />
+      <workItem from="1466604710591" duration="3396000" />
     </task>
     <task id="LOCAL-00001" summary="animation for social images working">
       <created>1466505812446</created>
@@ -365,11 +363,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466605487350</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="one section for work experience&#10;">
+      <created>1466607515637</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1466607515637</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9816000" />
+    <option name="totallyTimeSpent" value="10424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
@@ -427,7 +432,8 @@
     <MESSAGE value="move main.js in the folder js" />
     <MESSAGE value="new shake function added" />
     <MESSAGE value="opening link in new tab" />
-    <option name="LAST_COMMIT_MESSAGE" value="opening link in new tab" />
+    <MESSAGE value="one section for work experience&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="one section for work experience&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -635,24 +641,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/HTML/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
+        <state relative-caret-position="510">
           <caret line="91" column="37" selection-start-line="46" selection-start-column="23" selection-end-line="91" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/CSS/varible-content.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="79" column="14" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/HTML/my-work.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
+        <state relative-caret-position="184">
+          <caret line="42" column="83" selection-start-line="42" selection-start-column="83" selection-end-line="42" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/CSS/varible-content.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="167" column="25" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="25" />
           <folding />
         </state>
       </provider>
