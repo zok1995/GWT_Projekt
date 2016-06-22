@@ -76,6 +76,12 @@
 	margin-right: 20px;
 	font-size: 0.9em;
 }
+.worksheet-wrap-work {
+	width: 750px;
+	margin-top: -9px;
+	margin-right: 20px;
+	font-size: 0.9em;
+}
 .worksheet-item{
 
 	color: #727070;

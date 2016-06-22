@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="706d61df-08c5-4b4f-82ea-9bee8d41170f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/HTML/galery.html" afterPath="$PROJECT_DIR$/app/HTML/galery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/CSS/varible-content.css" afterPath="$PROJECT_DIR$/app/CSS/varible-content.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/HTML/index.html" afterPath="$PROJECT_DIR$/app/HTML/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/HTML/iuse.html" afterPath="$PROJECT_DIR$/app/HTML/iuse.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/HTML/my-work.html" afterPath="$PROJECT_DIR$/app/HTML/my-work.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/HTML/portfolio.html" afterPath="$PROJECT_DIR$/app/HTML/portfolio.html" />
     </list>
@@ -51,28 +50,28 @@
       <file leaf-file-name="varible-content.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/CSS/varible-content.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2465">
-              <caret line="145" column="17" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
+            <state relative-caret-position="394">
+              <caret line="79" column="14" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my-work.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="my-work.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/HTML/my-work.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="48" column="114" selection-start-line="48" selection-start-column="114" selection-end-line="48" selection-end-column="114" />
+            <state relative-caret-position="99">
+              <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/HTML/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="150" column="28" selection-start-line="150" selection-start-column="28" selection-end-line="150" selection-end-column="28" />
+            <state relative-caret-position="714">
+              <caret line="91" column="37" selection-start-line="46" selection-start-column="23" selection-end-line="91" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -91,8 +90,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/HTML/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+            <state relative-caret-position="306">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -107,14 +106,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/main.js" />
-        <option value="$PROJECT_DIR$/app/CSS/varible-content.css" />
         <option value="$PROJECT_DIR$/app/CSS/main.css" />
         <option value="$PROJECT_DIR$/app/js/main.js" />
-        <option value="$PROJECT_DIR$/app/HTML/index.html" />
         <option value="$PROJECT_DIR$/app/HTML/iuse.html" />
         <option value="$PROJECT_DIR$/app/HTML/galery.html" />
-        <option value="$PROJECT_DIR$/app/HTML/my-work.html" />
+        <option value="$PROJECT_DIR$/app/HTML/index.html" />
         <option value="$PROJECT_DIR$/app/HTML/portfolio.html" />
+        <option value="$PROJECT_DIR$/app/CSS/varible-content.css" />
+        <option value="$PROJECT_DIR$/app/HTML/my-work.html" />
       </list>
     </option>
   </component>
@@ -213,6 +212,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GWT Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GWT Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -231,8 +248,11 @@
       <recent name="F:\Web\GWT Project\app\js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.galery.html">
+  <component name="RunManager" selected="JavaScript Debug.my-work.html">
     <configuration default="false" name="galery.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GWT Project/app/HTML/galery.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="my-work.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GWT Project/app/HTML/my-work.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -288,12 +308,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.galery.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.my-work.html" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.galery.html" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.my-work.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.galery.html" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +335,7 @@
       <workItem from="1466505093753" duration="1237000" />
       <workItem from="1466513855399" duration="5176000" />
       <workItem from="1466536435072" duration="615000" />
-      <workItem from="1466604710591" duration="764000" />
+      <workItem from="1466604710591" duration="2788000" />
     </task>
     <task id="LOCAL-00001" summary="animation for social images working">
       <created>1466505812446</created>
@@ -336,11 +358,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466605121343</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="opening link in new tab">
+      <created>1466605487350</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1466605487350</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7792000" />
+    <option name="totallyTimeSpent" value="9816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
@@ -354,7 +383,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.004259851" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0031982942" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -397,7 +426,8 @@
     <MESSAGE value="animation for social images working" />
     <MESSAGE value="move main.js in the folder js" />
     <MESSAGE value="new shake function added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new shake function added" />
+    <MESSAGE value="opening link in new tab" />
+    <option name="LAST_COMMIT_MESSAGE" value="opening link in new tab" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -563,14 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/CSS/varible-content.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2465">
-          <caret line="145" column="17" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -587,22 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/HTML/galery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="40" column="86" selection-start-line="40" selection-start-column="86" selection-end-line="40" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HTML/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/HTML/iuse.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -611,18 +617,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/HTML/my-work.html">
+    <entry file="file://$PROJECT_DIR$/app/HTML/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="48" column="114" selection-start-line="48" selection-start-column="114" selection-end-line="48" selection-end-column="114" />
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HTML/galery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="86" selection-start-line="40" selection-start-column="86" selection-end-line="40" selection-end-column="86" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/HTML/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="150" column="28" selection-start-line="150" selection-start-column="28" selection-end-line="150" selection-end-column="28" />
+        <state relative-caret-position="714">
+          <caret line="91" column="37" selection-start-line="46" selection-start-column="23" selection-end-line="91" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/CSS/varible-content.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="79" column="14" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HTML/my-work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
           <folding />
         </state>
       </provider>
