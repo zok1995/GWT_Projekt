@@ -16,6 +16,15 @@ function getData() {
     //allmessage = new Message(name, email, message);
 }
 
-$( "#toggle" ).hover(function() {
-    $( this ).effect( "shake" );
+// $( "#toggle" ).hover(function() {
+//     $( this ).effect( "shake" );
+// });
+
+$('#toggle').hover(function(){
+    if(!$(this).hasClass('animated')){
+        $(this).addClass('animated');
+        $(this).stop().effect('shake', {distance:3}, 200);
+    }
+}, function(){
+    $(this).removeClass('animated');
 });
